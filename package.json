@@ -1,0 +1,10 @@
+{
+  "name": "velixir-xray",
+  "version": "1.0.0",
+  "private": true,
+  "description": "xray-core (VLESS+WS) as a Node app for PaaS deployment",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "adm-zip": "^0.5.16" }
+}
